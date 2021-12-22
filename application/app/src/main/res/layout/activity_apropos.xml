@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?><androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/maimouna"
+    tools:context=".Apropos">
+
+    <TextView
+        android:id="@+id/textView18"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:text="À propos Une petite présentation de ma personne Développeuse Mobile et Web à Simplon Senegal. Je suis apprenente-programmeuse et diplômé d'une licence en informatique de gestion. Ce portfolio a pour objectif de présenter les différents mes différentes competences, mon parcours autrement dit mes diplmes et mes experiences sur differentes projets sur lesquels que j'ai eu à travaillé."
+        android:textColor="@color/black"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="16dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
